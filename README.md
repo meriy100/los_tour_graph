@@ -5,7 +5,8 @@
 los があるディレクトリで `rails r` 第2引数に対象モデル
 
 ```sh
-# bin/rails r ../los_tour_graph/csv_generater.rb model_name
+# 
+# bin/rails r このリポジトリのディレクトリ/los_tour_graph/csv_generater.rb model_name
 bin/rails r ../los_tour_graph/csv_generater.rb hotel > ../los_tour_graph/hotel.csv
 
 ```
