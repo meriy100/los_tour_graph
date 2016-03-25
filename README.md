@@ -16,3 +16,4 @@ bin/rails r ../los_tour_graph/csv_generater.rb hotel > ../los_tour_graph/hotel.c
 sh dot.sh hotel.csv
 ```
 
+`fsm.png` に状態遷移図が出来ます. 名前は適宜変えてください
